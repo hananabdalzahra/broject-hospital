@@ -1,0 +1,149 @@
+/*-start header-*/
+/*start navbar*/
+.navbar{
+    color: white;
+    overflow: hidden;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    float: right;
+}
+
+li{
+    float: left;
+    padding: 12px;
+    overflow: hidden;
+    
+}
+/* end navbar*/
+/* start container*/
+.container{
+   /* width: 100%;*/
+   width: 1880px;
+    margin: auto;
+    
+    height: 420px;
+  
+   background-image: url(imag/m6.jpg);
+   
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+   
+}
+
+img{
+    float: left;
+}
+.name{
+text-align: left;
+
+color: rgb(233, 174, 10)  ;
+margin-left: 50px;
+
+ }
+ 
+
+.but{
+text-align: left;
+margin-left: 75px;
+
+}
+
+
+
+.car{
+    text-align: left;
+   color: brown;
+   margin-left: 112px;
+    
+}
+/*-end header-*/
+
+
+.but4{
+    float: right;
+    margin-right: 65px;
+}
+
+/* end container*/
+/* start p*/
+h2{
+    text-align: center;
+    
+}
+
+/*end p*/
+/* start span*/
+/* start p1*/
+/*  start images*/
+
+
+
+.divs{
+    overflow: hidden;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    
+
+}
+.div1{
+    float: left;
+    width: 33.33333%;
+    height: 195px;
+    
+    padding: 10px;
+}
+/* end image*/
+/*end p1*/
+
+/*end span*/
+/*start p2*/
+/* start divs2 and div3*/
+.divs2{
+    
+    overflow: hidden;
+    float:right;
+}
+.div2.img{
+    float: left;
+    width: 100%;
+
+
+}
+.div3{
+    text-align: center;
+    padding-left: 20px;
+}
+.but2{
+    float: right;
+    margin-right: 100px;
+}
+
+
+/* end divs2 and div3*/
+/*end p2*/
+/*start p3*/
+/*start div5,h3*/
+
+.div5,h3{
+    text-align: center;
+}
+.but3{
+    float: right;
+    margin-right:100px; 
+}
+
+
+/* end div5,h3*/
+/*end p3*/
+/*  start icons*/
+.icons,i{
+    text-align: center;
+    padding: 10px;
+
+}
+/* end icons*/
