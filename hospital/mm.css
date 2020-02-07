@@ -1,3 +1,7 @@
+body{
+    background-color: #c0cef3;
+}
+
 /*-start header-*/
 /*start navbar*/
 .navbar{
@@ -20,10 +24,10 @@ li{
 /* end navbar*/
 /* start container*/
 .container{
-   /* width: 100%;*/
+ 
    width: 1880px;
     margin: auto;
-    
+    margin-top: 0px;
     height: 420px;
   
    background-image: url(imag/m6.jpg);
@@ -38,28 +42,67 @@ li{
 img{
     float: left;
 }
+.th{
+    color:blue;
+}
+.a1{
+    font-size: 30px;
+    color: rgb(236, 56, 35);
+}
+.a1:hover{
+    color: rgb(236, 56, 35);
+}
+.a2{
+    font-size: 30px;
+    color:rgb(236, 56, 35) ;
+}
+.a2:hover{
+    color:rgb(236, 56, 35) ;
+}
+.a3{
+    font-size: 30px;
+    color: rgb(236, 56, 35);
+}
+.a3:hover{
+    color: rgb(236, 56, 35);
+
+}
+.a4{
+    font-size: 30px;
+    color: rgb(236, 56, 35);
+}
+.a4:hover{
+    color: rgb(236, 56, 35);
+}
 .name{
 text-align: left;
 
-color: rgb(233, 174, 10)  ;
-margin-left: 50px;
+color:  rgb(233, 174, 10) ;
+margin-left: 25px;
+
 
  }
  
-
+ .name1{
+    font-size: 75px;
+    
+ }
+ .name1:hover{
+     color:rgb(221, 19, 19);
+ }
 .but{
 text-align: left;
 margin-left: 75px;
 
 }
 
-
-
 .car{
     text-align: left;
-   color: brown;
    margin-left: 112px;
     
+}
+.fas{
+    color:  brown;
 }
 /*-end header-*/
 
@@ -71,8 +114,18 @@ margin-left: 75px;
 
 /* end container*/
 /* start p*/
-h2{
+.mar{
     text-align: center;
+
+    
+}
+.mar:hover{
+    color: rgb(221, 19, 19);
+    font-style:italic;
+    
+}
+.imags,img{
+    margin: 8px;
     
 }
 
@@ -96,6 +149,10 @@ h2{
     height: 195px;
     
     padding: 10px;
+}
+p:hover{
+    
+    font-size: 17px;
 }
 /* end image*/
 /*end p1*/
@@ -140,10 +197,25 @@ h2{
 
 /* end div5,h3*/
 /*end p3*/
-/*  start icons*/
+/*  start footers*/
 .icons,i{
     text-align: center;
-    padding: 10px;
+    padding: 23px;
+    padding-top: 35px;
+    color: cornsilk;
 
 }
-/* end icons*/
+
+
+.footer{
+    background-color: rgb(117, 112, 112);
+    margin-top: 12px;
+}
+.footer1{
+    text-align: center;
+    font-size: 24px;
+    background-color: rgb(54, 48, 48);
+    color: rgba(245, 245, 245, 0.637);
+    
+}
+/* end footers*/
